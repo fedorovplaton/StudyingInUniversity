@@ -1,6 +1,5 @@
 #include <iostream>
 #include <thread>
-#include <vector>
 
 using namespace std;
 
@@ -85,7 +84,7 @@ int main()
 	MainFunction(a);
 	//----Array.Output----
 	Output(a);
-
+    //----System Commands----
 	system("pause");
 	return EXIT_SUCCESS;
 }

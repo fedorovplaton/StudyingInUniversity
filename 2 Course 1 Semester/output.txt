@@ -1,0 +1,8 @@
+sub.main.org
+http://www.main.org
+https://www.main.org
+http://main.ru
+m.a.i.n.com
+www.main
+www.example..bad
+https://main.com/file

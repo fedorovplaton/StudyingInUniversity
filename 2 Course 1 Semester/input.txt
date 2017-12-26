@@ -1,0 +1,21 @@
++ sub.main.org
++ http://www.main.org
++ https://www.main.org                   
++ http://main.ru
++ m.a.i.n.com
+- page with path: www.main .org/lll,l
+- www.example..bad 
+- http/site.not
+- http:/http
++ https://main.com/file
+- https://main-dd.c,m/
+- https://main12-…com/
+- https://hh,gg.com/
+- https:/main12-…com/
+- Https:main12-.com/
+- https//main12-./ggg
+- http//main12-./ggg
+- http://main12-./ggg
+- httt://main12-./ggggg
+- htpp//main12-./gggg
+
